@@ -40,7 +40,7 @@ function App() {
   ])
   function onSubmit(e: FormEvent) {
     e.preventDefault()
-    if (!is alert(message ?: any): void
+    if (!isLastStep) return next()
       alert("Successful Account Creation")
   }
   return (
